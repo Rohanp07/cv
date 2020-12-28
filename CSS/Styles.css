@@ -1,0 +1,168 @@
+body
+{
+    background-color: #eff8ff;
+    text-align:center;
+    margin:0;
+    font-family: 'Merriweather',serif ;
+}
+hr 
+{
+   
+    width: 5%;
+    height: 50px;
+    border-width: 5px;
+    border-style: dotted none none;
+    border-color:grey;
+    size: 50px;
+    font-family:'Courier New'
+}
+h1
+{
+    
+    color: #66BFBF;
+    font-family:'Montserrat',sans-serif ;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-family:'Montserrat',sans-serif ;
+}
+
+h3
+{
+    color:#11999E;
+    font-family:'Montserrat',sans-serif ;
+   
+}
+
+.topC
+{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    
+}
+
+.middle-container
+{
+    background-color: white;
+}
+
+.bottom-container
+{
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 20px;
+    
+    
+}
+
+.one
+{
+    
+    color: #66BFBF;
+    margin:50px 0px 0 auto;
+    font-family:'Sacramento',cursive ;
+    font-size: 5.625rem;
+}
+.two
+{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+
+.cloud1
+{  
+    
+    position: relative;
+    right: 350px;
+    position: absolute;
+    top: 50px;
+    
+}
+
+.cloud2
+{
+   
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+
+.mountain
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 100px;
+     
+}
+.mountainDIV
+{
+    padding-top:50px ;
+    position: relative;
+    bottom: 90px;
+}
+
+
+.me
+{
+    
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 20px;
+    width: 150px;
+   
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:1.5;
+
+}
+
+.codeIMG
+{
+    width:25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.cooking
+{
+    width:25%;
+    background-color:antiquewhite;
+    border-radius: 50%;
+    float: right;
+}
+.btn
+{
+   
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+}
+
+.fb
+{
+    position: relative;
+    right:20px;
+}
+.tw
+{
+    position: relative;
+    left:20px;
+}
+
+.lang
+{
+    position: relative;
+    bottom:20px;
+    Google Sans,Helvetica Neue,sans-serif
+}
